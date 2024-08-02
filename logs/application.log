@@ -1,0 +1,54 @@
+17:41:30 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+17:41:31 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+17:48:48 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+17:48:49 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+17:48:51 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+18:28:00 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+18:28:01 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+18:28:03 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+21:54:15 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+21:54:16 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+21:54:18 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+22:06:05 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+22:06:06 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+22:06:08 [main] INFO  step_definitions.AddSellerSteps - User was not able to add seller
+13:40:41 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+13:40:42 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+13:50:05 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+13:50:06 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+13:53:23 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+13:53:24 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+13:55:27 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+13:55:28 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+13:56:43 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+13:56:44 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+14:40:34 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+14:40:36 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+14:40:38 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+14:40:38 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+14:40:38 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:02:45 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:02:47 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:02:50 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+15:03:11 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:03:12 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:03:14 [main] INFO  step_definitions.AddSellerSteps - User was not able to add seller
+15:03:48 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:03:50 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:07:44 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:07:45 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:07:47 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+15:07:47 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:07:47 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:24:57 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:24:59 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:25:04 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+15:25:05 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:25:07 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:25:09 [main] INFO  step_definitions.AddSellerSteps - User was not able to add seller
+15:38:14 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:38:15 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:38:17 [main] INFO  step_definitions.AddSellerSteps - User successfully added seller
+15:38:18 [main] INFO  step_definitions.AddSellerSteps - user is going to https://cashwise.us/main
+15:38:20 [main] INFO  step_definitions.AddSellerSteps - User successfully landed on the page: Cashwise
+15:38:23 [main] INFO  step_definitions.AddSellerSteps - User was not able to add seller
