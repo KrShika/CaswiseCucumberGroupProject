@@ -4,7 +4,7 @@ Feature:
   Scenario: positive when the user successfully signs up
     Given the user is on "https://cashwise.us/main"
     When user clicks on sign up button
-    Then user types "fluf1f1ybear1@gmail.com" on email field
+    Then user types "fluf1f1ybear@gmail.com" on email field
     Then user types "password123" on password field
     Then user enters "password123"  on confirm password field
     Then user clicks on continue

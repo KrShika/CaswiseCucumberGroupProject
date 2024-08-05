@@ -3,6 +3,7 @@ import com.github.javafaker.Faker;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import pages.AddProductPage;
 import pages.HomePage;
@@ -96,6 +97,7 @@ public class AddProductSteps {
     @Then("user clicks on Save button")
     public void user_clicks_on_save_button() {
         addProductPage.saveButton.click();
+        Assert.assertFalse("https://cashwise.us/dashboard/costs/expenses?isCreate=false".equals(driver.getCurrentUrl()));
     }
 
 
